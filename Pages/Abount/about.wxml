@@ -1,0 +1,5 @@
+<!--Pages/Abount/about.wxml-->
+<text>我是关于我们</text>
+<view bindtap="MyClick">请点击我</view>
+<!-- 显示用户名称 -->
+<open-data type="userNickName"></open-data>

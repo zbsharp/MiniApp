@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "Pages/Home/home",
+    "Pages/Abount/about"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小商城",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "Pages/Home/home",
+        "text": "首页",
+        "iconPath": "Resource/Images/icon-1.jpg",
+        "selectedIconPath": "Resource/Images/icon-1.jpg",
+        "selectedColor": "#000000"
+      },
+      {
+        "pagePath": "Pages/Abount/about",
+        "text": "关于",
+        "iconPath": "Resource/Images/icon-1.jpg",
+        "selectedIconPath": "Resource/Images/icon-1.jpg"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap91.json"
+}
