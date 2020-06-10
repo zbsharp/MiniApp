@@ -1,0 +1,6 @@
+.contin1{
+  border: 1px solid blue;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: red;
+}

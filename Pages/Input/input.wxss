@@ -1,0 +1,14 @@
+/* Pages/Input/input.wxss */
+/*引用外部样式*/
+/*相对路径*/
+@import '../../WXSS/index.wxss';
+/*绝对路径*/
+@import '/WXSS/home.wxss';
+
+.tx_name,.tx_pwd{
+  border: 1px solid black;
+  width: 200px;
+  height: 30px;
+  display: inline-block;
+  margin:10rpx;
+}

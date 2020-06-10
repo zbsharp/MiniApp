@@ -1,0 +1,17 @@
+<!--Pages/Input/input.wxml--> 
+<view>
+账号：
+<input class="tx_name"></input>
+</view>
+<view>
+<text>密码：</text>
+<input class="tx_pwd"></input>
+</view>
+
+<view class="contin">
+我是容器1
+</view>
+<view class="contin1">
+我是容器2
+</view>
+

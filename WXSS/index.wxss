@@ -1,0 +1,7 @@
+
+.contin{
+  width: 400rpx;
+  height: 400rpx;
+  border: 1px solid black;
+  background-color: blue;
+}
